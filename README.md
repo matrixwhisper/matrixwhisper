@@ -34,10 +34,15 @@ I build practical machine learning systems, with a focus on **LLMs, model fine-t
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" width="40" height="40" alt="CUDA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cuda/cuda-original.svg" width="40" height="40" alt="CUDA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg" width="40" height="40" alt="Hugging Face"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/>
+  
 </p>
 
-**Python · PyTorch · Hugging Face · Transformers · LoRA · QLoRA · LLMs · Fine-Tuning · Model Evaluation · Kaggle**
+**Python · PyTorch · Hugging Face · Transformers · LoRA · QLoRA · LLMs · Fine-Tuning · Model Evaluation · Kaggle . Pandas . Scikit-learn *
 
 ### 💻 Languages
 
@@ -46,6 +51,7 @@ I build practical machine learning systems, with a focus on **LLMs, model fine-t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" width="40" height="40" alt="COBOL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
 </p>
 
@@ -80,7 +86,7 @@ I build practical machine learning systems, with a focus on **LLMs, model fine-t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" height="40" alt="Ubuntu"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </p>
 
 **Docker · Linux · Ubuntu · Git · GitHub · GitHub Actions · CI/CD**
