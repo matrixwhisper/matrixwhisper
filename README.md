@@ -109,6 +109,9 @@ I use GitHub to build, experiment, document, and share machine-learning and soft
 
 
 💻 **GitHub:** [@Matrixwhisper](https://github.com/matrixwhisper)
+   **linkedin:** https://www.linkedin.com/in/idris-muhammed-68b6b33a8 
+   **Portfolio:** https://idris-portfolio-project.vercel.app/
+   **Email:** matrixwhispher@gmail.com
 
 ---
 
