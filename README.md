@@ -138,21 +138,25 @@ I build practical machine learning systems, with a focus on **LLMs, model fine-t
 
 ---
 
-## 🌟 Featured Projects
+## 📊 GitHub Contribution Stats
 
-### [cobol-quality-qlora-lab](https://github.com/matrixwhisper/cobol-quality-qlora-lab)
+<div align="center">
 
-Fine-tuned and evaluated LLMs for COBOL-focused tasks using LoRA/QLoRA workflows, with emphasis on dataset quality, adaptation, and practical ML experimentation.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matrixwhisper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-### [legacy-code-agent](https://github.com/matrixwhisper/legacy-code-agent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matrixwhisper&layout=compact&theme=tokyonight&hide_border=true)
 
-An AI-driven agent for understanding and modernizing legacy COBOL systems, combining code analysis, automation, and intelligent assistance for real-world modernization workflows.
+</div>
 
-### [agentic-ticket-triage](https://github.com/matrixwhisper/agentic-ticket-triage)
+---
 
-An agentic ticket triage system that routes and prioritizes support issues using LLM-based reasoning and automation for operational efficiency.
+## 🏆 GitHub Activity
 
-These three projects represent my strongest work in applied ML, LLM systems, and AI-powered software engineering.
+<div align="center">
+
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matrixwhisper&theme=tokyonight)
+
+</div>
 
 ---
 
