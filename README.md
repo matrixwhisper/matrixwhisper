@@ -2,7 +2,7 @@
 
 ### Machine Learning Engineer · AI & LLM Systems · Software Engineering
 
-I build practical machine learning systems, with a focus on **LLMs, model fine-tuning, AI agents, and evaluation**. I also work across backend development and software engineering to turn ML ideas into reliable applications.
+I build practical machine learning systems, with a focus on **LLMs, model fine-tuning, AI agents, and evaluation**. I also work across backend development and software engineering to turn ML ideas into deployable systems.
 
 ---
 
@@ -39,10 +39,10 @@ I build practical machine learning systems, with a focus on **LLMs, model fine-t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/>
-  
+
 </p>
 
-**Python · PyTorch · Hugging Face · Transformers · LoRA · QLoRA · LLMs · Fine-Tuning · Model Evaluation · Kaggle . Pandas . Scikit-learn *
+**Python · PyTorch · Hugging Face · Transformers · LoRA · QLoRA · LLMs · Fine-Tuning · Model Evaluation · Kaggle · Pandas · Scikit-learn**
 
 ### 💻 Languages
 
@@ -91,14 +91,11 @@ I build practical machine learning systems, with a focus on **LLMs, model fine-t
 
 **Docker · Linux · Ubuntu · Git · GitHub · GitHub Actions · CI/CD**
 
-
 ## 🔭 Currently Exploring
 
 **LLM fine-tuning · AI agents · Model evaluation · Data quality · ML systems**
 
 ---
-
-
 
 I use GitHub to build, experiment, document, and share machine-learning and software-engineering projects.
 
@@ -106,12 +103,20 @@ I use GitHub to build, experiment, document, and share machine-learning and soft
 
 ## 🤝 Connect With Me
 
-
-
-💻 **GitHub:** [@Matrixwhisper](https://github.com/matrixwhisper)
-   **linkedin:** https://www.linkedin.com/in/idris-muhammed-68b6b33a8 
-   **Portfolio:** https://idris-portfolio-project.vercel.app/
-   **Email:** matrixwhispher@gmail.com
+<p align="left">
+  <a href="https://github.com/matrixwhisper" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@Matrixwhisper-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/idris-muhammed-68b6b33a8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Idris%20Muhammed-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://idris-portfolio-project.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF6B6B?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="mailto:matrixwhispher@gmail.com">
+    <img src="https://img.shields.io/badge/Email-matrixwhispher@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
