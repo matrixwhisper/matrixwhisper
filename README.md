@@ -138,12 +138,27 @@ I build practical machine learning systems, with a focus on **LLMs, model fine-t
 
 ---
 
-## 📊 GitHub Contribution Graph
+## 📊 GitHub Contribution Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matrixwhisper&theme=github-compact&bg_color=ffffff&color=333333&line=4f69c6&point=4f69c6&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
-</p>
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matrixwhisper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matrixwhisper&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Activity
+
+<div align="center">
+
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matrixwhisper&theme=tokyonight)
+
+</div>
+
+---
 
 I use GitHub to build, experiment, document, and share machine-learning and software-engineering projects.
 
