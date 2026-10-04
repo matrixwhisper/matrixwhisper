@@ -138,29 +138,23 @@ I build practical machine learning systems, with a focus on **LLMs, model fine-t
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matrixwhisper&theme=tokyo-night&bg_color=1a1b26&color=70f0ff&line=70f0ff&point=ff006e&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matrixwhisper&theme=github-compact&bg_color=ffffff&color=333333&line=4f69c6&point=4f69c6&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
 </p>
 
 ---
 
-## 💬 Contribution 
+## 💫 Contribution Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" width="45" height="45" style="animation: bounce 2s infinite;" />
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/pytorch.svg" width="45" height="45" style="animation: bounce 2s infinite 0.2s;" />
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg" width="45" height="45" style="animation: bounce 2s infinite 0.4s;" />
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/ai.svg" width="45" height="45" style="animation: bounce 2s infinite 0.6s;" />
-</p>
-
-<style>
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-15px); }
-  }
-</style>
+<div align="center">
+  
+**Bouncing Contributions** ⚡
+  
+  🐍 → 🔥 → 🤖 → 💻 → 🚀 → ✨ → 📊 → 🎯
+  
+</div>
 
 ---
 
