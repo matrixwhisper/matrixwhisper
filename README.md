@@ -146,7 +146,7 @@ I build practical machine learning systems, with a focus on **LLMs, model fine-t
 
 ---
 
-## 💬 Contribution Animation
+## 💬 Contribution 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" width="45" height="45" style="animation: bounce 2s infinite;" />
