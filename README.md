@@ -144,19 +144,6 @@ I build practical machine learning systems, with a focus on **LLMs, model fine-t
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matrixwhisper&theme=github-compact&bg_color=ffffff&color=333333&line=4f69c6&point=4f69c6&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
 </p>
 
----
-
-## 💫 Contribution Animation
-
-<div align="center">
-  
-**Bouncing Contributions** ⚡
-  
-  🐍 → 🔥 → 🤖 → 💻 → 🚀 → ✨ → 📊 → 🎯
-  
-</div>
-
----
 
 I use GitHub to build, experiment, document, and share machine-learning and software-engineering projects.
 
